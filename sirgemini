@@ -1,0 +1,68 @@
+
+### Keybase proof
+
+I hereby claim:
+
+  * I am vlgeminii on github.
+  * I am sirgemini (https://keybase.io/sirgemini) on keybase.
+  * I have a public key ASAiW1RQCtwo247uAcilRPgbtxuD8cD8YdcamtupAmRv_Qo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120225b54500adc28db8eee01c8a544f81bb71b83f1c0fc61d71a9adba902646ffd0a",
+      "host": "keybase.io",
+      "kid": "0120225b54500adc28db8eee01c8a544f81bb71b83f1c0fc61d71a9adba902646ffd0a",
+      "uid": "3cc4daac31a49148c3d889254b572519",
+      "username": "sirgemini"
+    },
+    "merkle_root": {
+      "ctime": 1568348151,
+      "hash": "31c34a2c61f34ef0aca835d72b5f2c1707c780646c9b1a4e4c0c9d206ee1af1967f727355b896f0c6bf0f6d5d70b3e6ce41a21bf110938ddc737f1b145935427",
+      "hash_meta": "fa0e822913a9e016978934b9e3fe06d11efb238dc1255e7ec1dc0fef19d3cb5f",
+      "seqno": 7092205
+    },
+    "service": {
+      "entropy": "9mJvQxwvAWBHMzWoN+GPbBXP",
+      "name": "github",
+      "username": "vlgeminii"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568348159,
+  "expire_in": 504576000,
+  "prev": "240872f5279f2cccd1feb1c9722fbc9ceadcc31e1ad50fb75535d020843d26ff",
+  "seqno": 16,
+  "tag": "signature"
+}
+```
+
+with the key [ASAiW1RQCtwo247uAcilRPgbtxuD8cD8YdcamtupAmRv_Qo](https://keybase.io/sirgemini), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIltUUArcKNuO7gHIpUT4G7cbg/HA/GHXGprbqQJkb/0Kp3BheWxvYWTESpcCEMQgJAhy9SefLMzR/rHJci+8nOrcwx4a1Q+3VTXQIIQ9Jv/EIK/8qM45yjNJ9tBMcVDM6Jm5zMkrGcXak/NzhMIGjtWQAgHCo3NpZ8RA31mDjroNc9s2N2Ep55AlgER979wvbt3qo3Ss2eza8UNApAKL0smcWYJ/JNBq9UOcrW4uoppnVAJGV4FbZNFaAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIApg5FuZyaj7cPR7l6B7NBDuRMdPSfZBTd+P+QyYIbtjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/sirgemini
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id sirgemini
+```
